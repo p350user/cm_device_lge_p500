@@ -5,7 +5,7 @@ USE_CAMERA_STUB := true
 
 # Kernel
 TARGET_KERNEL_SOURCE := kernel/lge/p500
-TARGET_KERNEL_CONFIG := cyanogenmod_thunderg_defconfig
+TARGET_KERNEL_CONFIG := cyanogenmod_p500_defconfig
 TARGET_PREBUILT_KERNEL := device/lge/p500/prebuilt/zImage
 
 # Platform
